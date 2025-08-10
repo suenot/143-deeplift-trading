@@ -1,0 +1,21 @@
+# DeepLIFT Trading Dependencies
+
+# Core ML frameworks
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Data fetching
+requests>=2.31.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
+
+# Financial data (optional)
+yfinance>=0.2.0
+
+# Scientific computing
+scipy>=1.11.0
+
+# Progress bars (optional)
+tqdm>=4.65.0
